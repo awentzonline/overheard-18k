@@ -7,7 +7,6 @@ import datasets
 datasets.load_dataset('awentzonline/overheard-18k')
 ```
 
-If babies learn language by listening to people speak then maybe we need a dataset like that.
 I'm making this as a potential dataset for use in the [BabyLM 2024 Challenge](https://babylm.github.io/)
 where the object is to train language models with small datasets of 10 million or 100 million words.
 This dataset has 3,360,107 words if you naively split it.
